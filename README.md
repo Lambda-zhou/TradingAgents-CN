@@ -1,3 +1,10 @@
+# 已实现项目复现
+## 具体内容如下
+环境：python 3.11, jupyter notebook，linux操作系统
+
+代码已经上传到TradingAgents-CN.ipynb文件
+
+
 # TradingAgents 中文增强版
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
